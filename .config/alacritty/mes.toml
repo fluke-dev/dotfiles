@@ -1,0 +1,9 @@
+[font]
+size = 10
+
+builtin_box_drawing = true
+
+normal = { family = "MesloLGS Nerd Font Mono", style = "SemiBold" }
+bold = { family = "MesloLGS Nerd Font Mono", style = "Bold" }
+italic = { family = "MesloLGS Nerd Font Mono", style = "Italic" }
+bold_italic = { family = "MesloLGS Nerd Font Mono", style = "Bold Italic" }
